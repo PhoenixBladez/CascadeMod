@@ -1,0 +1,3 @@
+author = Me tbh
+version = 0.1
+displayName = Cascade
