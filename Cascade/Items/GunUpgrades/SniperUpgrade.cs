@@ -18,7 +18,7 @@ namespace Cascade.Items.GunUpgrades
         {
             item.damage = 318;
             item.ranged = true;
-            item.width = 76;
+            item.width = 108;
             item.height = 34;
             item.useTime = 32;
 			item.crit = 30;
